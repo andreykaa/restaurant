@@ -542,6 +542,8 @@ body {
 /* ===============Стили для мобильной версии===================== */
 .blok {
     display: block;
+    font-size: 30px;
+    transform: translate(-70%, 70%);
 }
 
 .burger-slide {
@@ -553,11 +555,6 @@ button {
     outline: none;
     background-color: transparent;
 }
-
-.blok {
-    display: block;
-    font-size: 30px;
-    transform: translate(-70%, 70%);
 
 .disp {
     display: none;
