@@ -542,8 +542,9 @@ body {
 /* ===============Стили для мобильной версии===================== */
 .blok {
     display: block;
-    font-size: 30px;
+    font-size: 35px;
     transform: translate(-70%, 70%);
+    padding-top: 10px;
 }
 
 .burger-slide {
