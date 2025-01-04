@@ -554,6 +554,11 @@ button {
     background-color: transparent;
 }
 
+.blok {
+    display: block;
+    font-size: 30px;
+    transform: translate(-70%, 70%);
+
 .disp {
     display: none;
 }
